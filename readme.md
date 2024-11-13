@@ -1,3 +1,8 @@
+# Introduction
+I use this checklist to quickly do code reviews.
+
+It has 5 sections, focusing on Requirements, Health, Quality, Reviewing, and Testing.
+
 | **Icon** | **Category**                  | **Approach**                                                                                 | **Examples**                                                                                                               | **Why**                                                                 |
 |----------|-------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | ♾️       | **Understanding Requirements** | Create detailed documentation of the requirements and ensure the client and your entire team have a crystal clear understanding of them. | Verify `ProcessOrder` method aligns with requirements. (https://www.functionize.com/blog/how-nasa-does-software-testing-and-qa) | Misunderstanding requirements can lead to building the wrong product, resulting in wasted time, resources, and potential project failure. |
