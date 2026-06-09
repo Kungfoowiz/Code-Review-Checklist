@@ -1,5 +1,5 @@
 # Introduction
-I use this checklist to quickly do code reviews.
+I use this checklist to efficiently do code reviews.
 
 It has 5 sections, focusing on Requirements, Health, Quality, Reviewing, and Testing.
 
